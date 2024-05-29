@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5344ca22efbe74e4199c5d4833726171
+  m_SerializeEntries:
+  - m_GUID: 0efb60f5e85c84a41890e4f97ac11ddf
+    m_Address: Assets/Prefab/Cube.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - environment
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a09b0ad4fc0e2f44cad7a71b18a064a8
+    m_Address: Assets/Prefab/AudioFX.MP3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - audio
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e645dade309249645972e8d4fcbf2798
+    m_Address: Assets/Sprites
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sprite
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 66b7248d85352a240af06f0db31fc9ad, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3b30e4fc16df6034eac131438f1bfd68, type: 2}
+    - {fileID: 11400000, guid: 23f789a7268b62646a7323c41cc0007b, type: 2}

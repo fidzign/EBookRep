@@ -5,10 +5,14 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/EBook.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 0
     path: Assets/Scenes/SelectObject.unity
     guid: 3501ca73fa2c0ae4ba6ed3056eaf35f3
-  m_configObjects: {}
+  - enabled: 1
+    path: Assets/Scenes/AddressableObject.unity
+    guid: c19a6afb8f6d4b044b789408a11c4f2b
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 1c910916d253b714c80f37dc10b107e9, type: 2}
