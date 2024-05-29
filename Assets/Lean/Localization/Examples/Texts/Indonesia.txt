@@ -1,0 +1,177 @@
+﻿tGunungBatur = Gunung Batur\n
+dGunungBatur = Gunung Batur merupakan sebuah gunung berapi aktif di Kecamatan Kintamani, Kabupaten Bangli, Bali, Indonesia. 
+tGipsum = Gipsum\n
+dGipsum = Gipsum adalah batu putih yang terbentuk karena pengendapan air laut. 
+tBelerang = Belerang\n
+dBelerang = Belerang adalah sebuah zat kimia yang termasuk ke dalam unsur non-logam, tidak memiliki rasa tetapi memiliki aroma khas 
+tLBerongga = Lava Berongga\n
+dLBerongga = Lava Berongga Adalah Lava yang membeku sangat cepat menghasilkan batu yang berongga-rongga
+tKLava = Kerak Lava\n
+dKLava = Kerak Lava adalah lelehan batu (magma) pijar yang mengalir keluar dari dalam bumi
+tPLava = Pipa Lava\n
+dPLava = Aliran lava jejak aliran lava pada lava yang kental membentuk permukaan yang kasari
+tLavaStalaktit = Lava Stalaktit\n
+dLavaStalaktit = Stalaktit pada gua lava terbentuk dari tetesan lava. tetesan ini berasal dari lava yang masih cair di atas atap gua yang merembes melalui retakan atap gua dan membeku sebelum jatuh ke lantai. Stalaktit juga dapat terbentuk dari lava kental yang tertinggal pada atap gua ketika permukaan aliran lava menurun. Proses lainnya terbentuk dari pelarutan kembali sebagian atap gua akibat panas dari gas yang keluar dari aliran lava di dlam lorong gua. Tetesan lava dari atap gua ini apabila jatuh ke lantai dapat membentuk stalagmit.
+tTabungLava = Tabung Lava\n
+dTabungLava = Lava Tube atau Gua lava terbentuk dari aliran lava di bagian dalam sementara bagian luarnya telah membeku. Hal ini terjadi apabila pusat erupsi tidak mengeluarkan lava lagi sehingga aliran lava di bagian dalam akan menjadi ruang kosong(gua) atau"lava tube".
+tLavaTali = Lava Rope\n
+dLavaTali = Lava pahoehoe sering ditemukan membentuk kerutan-kerutan dan berbentuk seperti tumpukan tali. Tekstur seperti tumpukan tali ini dikenal sebagai lava menali atau ropy lava. Terbentuknya kerutan-kerutan ini hanya mungkin jika lava terbentuk dalam kondisi yang relatif encer atau memiliki viskositas rendah
+tBomKerakRoti = Bom Kerak Roti\n
+dBomKerakRoti = Bom kerak roti terbentuk jika bagian luar bom lava mengeras selama penerbangannya
+tBomScoria = Bom Scoria\n
+dBomScoria = Scoria adalah sebuah bebatuan vulkanik. Nama lama Scoria adalah cinder. Scoria diproduksi oleh fragmentasi aliran lava. Kubah vulkanik scoria dapat ditinggalkan setelah letusan, biasanya membentuk gunung dengan kawah di puncaknya
+tBomTahiSapi = Bom Tahi Sapi\n
+dBomTahiSapi = Bom tahi sapi adalah bomb berbentuk pipih akibat benturan yang terjadi ketika masih berada dalam kondisi setengah padat. Bagian permukaannya umumnya agak skorian dan bahan hamburan yang pipih yang terjadi karena benturan dengan permukaan tanah disebut driblet.
+tSumbatLavaDesit = Sumbat Lava Desit\n
+dSumbatLavaDesit = Magma yang membeku di pipa kepundan sehingga bagian atasnya menyembul ke permukaan sedang bagian bawahnya berada di bawah permukaan disebut leher gunung api (volcanic necks) atau sumbat lava (lava plugs).
+tLava = Lava\n
+dLava = Lava adalah lelehan batu pijar yang mengalir keluar dari dalam bumi melalui kawah gunung berapi atau melalui celah yang kemudian membeku menjadi batuan beku yang bentuknya bermacam-macam
+tBatuApung = Batu Apung\n
+dBatuApung = Batu apung, atau Pumis adalah istilah tekstural untuk batuan vulkanik yang merupakan lava berbuih terpadatkan yang tersusun atas piroklastik kaca yang amat nmikrovesikular dengan dinding batuan beku gunung berapi ekstrusif yang bergelembung, amat tipis dan tembus cahaya
+tIgnimbrit = Ignimbrit\n
+dIgnimbrit = Ignimbrit adalah sebuah endapan dari aliran piroklastik, dimana aliran piroklastik sendiri merupakan suspensi panas dari partikel dan gas yang mengalir cepat dari gunungapi karena memiliki kepadatan lebih besar dari atmosfer di sekitarnya.
+tLavaBasalt = Lava Basalt\n
+dLavaBasalt = Lava basalt merupakan lava yang banyak dikeluarkan dari magma yang berkomposisi mafic, bersuhu tinggi dan memiliki viskositas (kekentalan) yang rendah
+tSumbatLava = Sumbat Lava\n
+dSumbatLava = Magma yang membeku di pipa kepundan sehingga bagian atasnya menyembul ke permukaan sedang bagian bawahnya berada di bawah permukaan disebut leher gunungapi (volcanic necks) atau sumbat lava (lava plugs).
+tBatuGamping = Batu Gamping\n
+dBatuGamping = Gamping atau batu kapur adalah batuan sedimen yang tersusun dari mineral kalsit dan aragonit, yang merupakan dua varian yang berbeda dari kalsium karbonat.
+tKonglomerat = Batu Konglomerat\n
+dKonglomerat = Batu konglomerat adalah salah satu batuan yang ada di bumi. Batuan konglomerat termasuk dalam batuan sedimen. Batuan konglomerat juga menjadi salah satu batuan yang umum ada di bumi. Konglomerat terbentuk dari partikel kecil yang membentuk sedimentasi. Konglomerat bertekstur kasar, dan berbentuk besar
+tBreksiLava = Breksi lava\n
+dBreksiLava = Breksi lava terjadi karena permukaan lava yang telah membeku pada bagian atas hancur terseret oleh aliran lava pada bagian bawahnya yang masih cair dan pijar
+tBomVulkanik = Bom Vulkanik\n
+dBomVulkanik = Sebuah bom vulkanik adalah massa batuan cair (tephra) yang lebih besar dari 64 mm (2,5 inci) diameter, terbentuk ketika gunung api menyemburkan fragmen kental lava selama letusan. Karena bom vulkanik mendingin setelah mereka meninggalkan gunung berapi, mereka adalah batuan beku ekstrusif.
+tArcaSederhana = Arca Sederhana\n
+dArcaSederhana = Arca sederhana merupakan suatu bentuk perwujudan dari nenek moyang atau leluhur yang sudah meninggal. Tradisi pengarcaan ini sudah ada sejak jaman prasejarah masa perundagian yang biasa disebut dengan “tradisi megalitik” pada masa ini sudah berkembang suatu kepercayaan terhadap energi-energi diluar nalar manusia yaitu munculnya kepercayaan Animisme dan Dinamisme. (http://kebudayaan.kemdikbud.go.id/bpcbbali/arca-sederhana-dari-desa-depaa-dipamerkan-di-museum-arkeologi-gedong-arca/)
+tArcaWisnu = Arca Wisnu\n
+dArcaWisnu = Aset Museum Gunung Batur
+tTajak = Tajak Perunggu\n
+dTajak = Benda-benda dari perunggu terutama berfungsi sebagai benda bekal kubur. Jenis-jenisnya terdiri dari kapak atau tajak upacara dari berbagai ukuran, gelang-gelang tangan dan kaki, anting-anting dan perhiasan berbentuk lempengan pentagonal. Tajak perunggu yang bercorak khas Bali meliputi tipe yang bermata bentuk jantung bentuk bulan sabit melebar dan tipe tajak. Sebuah kapak bermata bentuk jantung (http://kebudayaan.kemdikbud.go.id/bpcbbali/penelitian-nekropolis-gilimanuk/)
+tTopo = Topo\n
+dTopo = Aset Museum Gunung Batur
+tLesung = Lesung Batu\n
+dLesung = Lesung batu adalah alat menumbuk padi yang masih mempunyai tangkai menjadi gabah 
+tKemuncak = Kemuncak\n
+dKemuncak = Aset Museum Gunung Batur
+tBuli = Buli Buli\n
+dBuli = Merupakan wadah sejenis tempayan berbentuk bulat dengan leher rendah dan mulut terbuka lebar. Bagian dasar biasanya cembung dan tidak memiliki kaki, dipergunakan sebagai wadah benda cair. Pada bagian mulut cuil sebagian dan pada dekat mulut terdapat pegangan
+tLumpang = Lumpang Batu Kali\n
+dLumpang = Lumpang batu adalah alat menumbuk gabah menjadi beras 
+tSarkofagus = Sarkofagus\n
+dSarkofagus = berfungsi sebagai peti kubur yang terbuat dari batu (batu padas) untuk menyimpan mayat. Sarkofagus ini terdiri dari 2 (dua) bagian yaitu bagian wadah dan tutup bentuk polos,  pada bagian depan dan belakang ada pahatan berupa tonjolan (bulat) masing-masing 2 (dua) buah pada bagian wadah dan tutup. Peninggalan sarkofagus ini merupakan peninggalan masa megalitik yang berlangsung antara tahun 2000 sampai 2500 SM. (http://kebudayaan.kemdikbud.go.id/bpcbbali/konservasi-sarkofagus-pangkung-paruk/)
+tNekara = Nekara\n
+dNekara = Nekara adalah kreasi seni bersifat magis yang konon dijadikan media untuk memohon hujan yang keberadaanya sampai saat ini tersimpan di Pura Penataran Sasih di desa Pejeng Bali. Nekara dengan banyak mengandung ragam motif hias yang banyak mengandung makna tersendiri tersebut merupakan hasil teknologi logam perunggu yang mencapai puncaknya pada akhir zaman prasejarah, yaitu pada masa perundagian Bangsa Austronesia sekitar 2000 tahun sebelum Masehi.
+tAlatPertanian = Alat Pertanian\n
+dAlatPertanian = Alat pertanian ini digunakan oleh masyarakat setempat pada jaman dahulu mengingat dari keadaan geografisnya Kabupaten Bangli merupakan daerah pertanian. Masing-masing subsektor pertanian terus dikembangkan dengan tujuan untuk meningkatkan hasil dan mutu serta memperluas penganekaragaman hasil pertanian guna memenuhi kebutuhan pangan dan industri yang mengolah hasil pertanian, memperluas lapangan kerja dan kesempatan berusaha yang pada akhirnya akan mendukung pembangunan daerah.(http://perpustakaan.menlhk.go.id/pustaka/images/docs/LAPORAN_SLHD.Kabupaten_Bangli_2015.fix.pdf)
+tArcaMegalitik = Arca Megalit\n
+dArcaMegalitik = Arca megalit pada umumnya dipahat dengan sangat sederhana, penampilan bagian-bagiannya secara anatomis tidak sesuai dengan proporsinya. Hampir sebagian besar arca-arca tersebut masih dianggap sebagai benda-benda keramat oleh penduduk setempat, dan ada pula sebagian kecil yang berfungsi profan, yaitu dapat dibedakan dari temuan arca-arca tradisi megalit yang terdapat didalam pura dan luar pura. (file:///Users/joy/Downloads/155-319-1-SM.pdf)
+tArcaSejoli = Arca Sejoli\n
+dArcaSejoli = Aset Museum Gunung Batur
+tKedisan = Tokoh Kedisan\n
+dKedisan = Aset Museum Gunung Batur
+tLontar = Lontar Aji Pijar\n
+dLontar = Aji Pari berarti ‘ilmu padi’. Lontar ini ditulis dengan bahasa Jawa kuno dan merupakan salah satu lontar yang memuat ajaran tentang pertanian tradisional. Aji Pari berada dalam kategori yang sama dengan lontar-lontar pertanian seperti Usada Taru Pramana, Aji Janantaka, Usada Carik, dan sebagainya.
+tTrenggiling = Trenggiling\n
+dTrenggiling = Aset Museum Gunung Batur
+tBurung = Burung Tekukur\n
+dBurung = Aset Museum Gunung Batur
+tMiniatur = Miniatur Candi\n
+dMiniatur = Aset Museum Gunung Batur
+tKera = Kera Abu\n
+dKera = Aset Museum Gunung Batur
+tBryophyllum = Bryophyllum\n
+dBryophyllum = Aset Museum Gunung Batur
+tAnaphalis = Anaphalis\n
+dAnaphalis = Anaphalis javanica, yang dikenal secara populer sebagai Edelweiss jawa (Javanese edelweiss) atau Bunga Senduro, adalah tumbuhan endemik zona alpina/montana di berbagai pegunungan tinggi Nusantara.[1] Tumbuhan ini dapat mencapai ketinggian 8 meter dan dapat memiliki batang sebesar kaki manusia walaupun umumnya tidak melebihi 1 meter. Tumbuhan ini sekarang dikategorikan sebagai langka.
+tAlbizia = Albizia\n
+dAlbizia = Albizia adalah genus dari sekitar 150 spesies pohon dan semak yang kebanyakan tumbuh cepat subtropis dan tropis di subfamili Mimosoideae dari famili Fabaceae. Genus ini pantropis, terjadi di Asia, Afrika, Madagaskar, Amerika dan Australia, tetapi kebanyakan di daerah tropis Dunia Lama. Di beberapa lokasi, beberapa spesies dianggap rumput liar. 
+tVitex = Vitex Trifolia\n
+dVitex = Tanaman legundi (Vitex trifolia L. sinonim V. rotundiolia, Suku Verbenaceae) merupakan tanaman tropis yang banyak digunakan sebagai bahan baku obat tradisional. Tanaman ini berupa perdu atau pohon kecil yang tingginya 1,5-5 meter, dapat tumbuh pada daerah ketinggian 1000 meter di atas permukaan air laut. Batang berkayu, bulat, ranting berambut, putih kotor. Daunnya majemuk, berseling berhadapan, terdiri dari tiga anak daun berbentuk bulat telur, ujung dan pangkal tumpul, tepi rata, pertulangan menyirip, hijau. Rasanya pahit dan tajam. (https://ugm.ac.id/id/berita/1034-vitex-trifolia-mampu-obati-asma)
+tLandak = Landak\n
+dLandak = Aset Museum Gunung Batur
+tLuwak = Luwak\n
+dLuwak = Aset Museum Gunung Batur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

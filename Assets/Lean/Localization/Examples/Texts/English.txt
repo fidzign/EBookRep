@@ -1,0 +1,178 @@
+﻿tGunungBatur = Mount Batur\n
+dGunungBatur = Mount Batur is an active volcano in Kintamani District, Bangli Regency, Bali, Indonesia.
+tGipsum = Gypsum\n
+dGipsum = Gypsum is a white rock formed due to the deposition of seawater. 
+tBelerang = Sulfur\n
+dBelerang = Sulfur is a chemical substance that belongs to a non-metallic element, has no taste but has a distinctive aroma 
+tLBerongga = Hollow Lava\n
+dLBerongga = Hollow Lava Is Lava that freezes very quickly to produce a hollow rock
+tKLava = Lava crust\n
+dKLava = Lava crust is molten rock (magma) that flows out of the earth
+tPLava = Lava Pipe\n
+dPLava = Lava flow traces of lava flow on thick lava forms a rough surface
+tLavaStalaktit = Stalactites lava\n
+dLavaStalaktit = Stalactites in lava caves are formed from lava droplets. These droplets come from molten lava on the roof of the cave that seeps through cracks in the roof of the cave and freezes before falling to the floor. Stalactites can also form from thick lava that remains on the roof of a cave when the surface of the lava flow decreases. Another process is formed from the dissolving of part of the roof of the cave due to the heat from the gas that comes out of the lava flow in the cave passage. Lava drops from the roof of this cave when they fall to the floor can form stalagmites.
+tTabungLava = Lava Tube\n
+dTabungLava = Lava Tube or Lava cave is formed from the flow of lava on the inside while the outside has frozen. This happens when the center of the eruption does not release any more lava so that the lava flow in the interior will become an empty space (cave) or "lava tube".
+tLavaTali = Pahoehoe lava\n
+dLavaTali = Pahoehoe lava is often found forming wrinkles and shaped like piles of rope. This rope-like texture is known as rope lava or ropy lava. The formation of these wrinkles is only possible if the lava is formed in relatively dilute conditions or has a low viscosity
+tBomKerakRoti = Breadcrust bombs\n
+dBomKerakRoti = Breadcrust bombs are formed when the outside of a lava bomb hardens during its flight
+tBomScoria = Scoria\n
+dBomScoria = Scoria is a volcanic rock. Scoria's old name was Cinder. Scoria is produced by the fragmentation of lava flows. A scoria volcanic dome can be left behind after an eruption, usually forming a mountain with a crater at the top
+tBomTahiSapi = Bom Tahi Sapi\n
+dBomTahiSapi = Bom Tahi Sapi are flat-shaped bombs due to the impact that occurs when they are still in a semi-solid state. The surface is generally slightly scorched and the flat scattering material that occurs due to impact with the ground surface is called a driblet.
+tSumbatLavaDesit = Sumbat Lava Desit\n
+dSumbatLavaDesit = Magma that freezes in the vent pipe so that the top part is sticking out to the surface while the bottom is below the surface is called volcanic necks or lava plugs.
+tLava = Lava\n
+dLava = Lava is molten incandescent rock that flows out of the earth through volcanic craters or through fissures which then freezes into igneous rock of various shapes.
+tBatuApung = Breadcrust bombs\n
+dBatuApung = Pumice, or Pumis, is a textural term for volcanic rock which is a dense, foamy lava composed of highly microvesicular glass pyroclastics with extrusive volcanic igneous rock walls that are bubbly, very thin and translucent.
+tIgnimbrit = Ignimbrit\n
+dIgnimbrit = Ignimbrite is a deposit of pyroclastic flow, where the pyroclastic flow itself is a hot suspension of particles and gases that flow quickly from the volcano because it has a density greater than the surrounding atmosphere.
+tLavaBasalt = Basalt lava\n
+dLavaBasalt = Basalt lava is lava that is mostly released from magma with mafic composition, high temperature and low viscosity.
+tSumbatLava = Sumbat Lava\n
+dSumbatLava = Magma that freezes in the vent pipe so that the top part is sticking out to the surface while the bottom is below the surface is called volcanic necks or lava plugs.
+tBatuGamping = Batu Gamping\n
+dBatuGamping = Limestone or limestone is a sedimentary rock composed of the minerals calcite and aragonite, which are two different variants of calcium carbonate.
+tKonglomerat = Conglomerate Rock\n
+dKonglomerat = Conglomerate rock is one of the rocks on earth. Conglomerate rocks are included in sedimentary rocks. Conglomerate rocks are also one of the common rocks on earth. Conglomerates are formed from small particles that form sediments. Coarse textured conglomerate, and large in shape
+tBreksiLava = Lava Breccia\n
+dBreksiLava = Lava breccia occurs because the surface of the frozen lava at the top is crushed and dragged by the lava flow at the bottom which is still liquid and incandescent.
+tBomVulkanik = volcanic bomb\n
+dBomVulkanik = A volcanic bomb is a mass of molten rock (tephra) larger than 64 mm (2.5 inches) in diameter, formed when a volcano ejects viscous fragments of lava during an eruption. Because volcanic bombs cool after they leave the volcano, they are extrusive igneous rocks.
+tArcaSederhana = Arca Sederhana\n
+dArcaSederhana = Arca sederhana merupakan suatu bentuk perwujudan dari nenek moyang atau leluhur yang sudah meninggal. Tradisi pengarcaan ini sudah ada sejak jaman prasejarah masa perundagian yang biasa disebut dengan “tradisi megalitik” pada masa ini sudah berkembang suatu kepercayaan terhadap energi-energi diluar nalar manusia yaitu munculnya kepercayaan Animisme dan Dinamisme. (http://kebudayaan.kemdikbud.go.id/bpcbbali/arca-sederhana-dari-desa-depaa-dipamerkan-di-museum-arkeologi-gedong-arca/)
+tArcaWisnu = Arca Wisnu\n
+dArcaWisnu = Mount Batur Museum Assets
+tTajak = Tajak Perunggu\n
+dTajak = Mount Batur Museum Assets
+tTopo = Topo\n
+dTopo = Mount Batur Museum Assets
+tLesung = Lesung Batu\n
+dLesung = Mount Batur Museum Assets
+tKemuncak = Kemuncak\n
+dKemuncak = Mount Batur Museum Assets
+tBuli = Buli Buli\n
+dBuli = Mount Batur Museum Assets
+tLumpang = Lumpang Batu Kali\n
+dLumpang = Mount Batur Museum Assets
+tSarkofagus = Sarkofagus\n
+dSarkofagus = Mount Batur Museum Assets
+tNekara = Nekara\n
+dNekara = Mount Batur Museum Assets
+tAlatPertanian = Alat Pertanian\n
+dAlatPertanian = Mount Batur Museum Assets
+tArcaMegalitik = Arca Megalitic\n
+dArcaMegalitik = Mount Batur Museum Assets
+tArcaSejoli = Arca Sejoli\n
+dArcaSejoli = Mount Batur Museum Assets
+tKedisan = Tokoh Kedisan\n
+dKedisan = Mount Batur Museum Assets
+tLontar = Lontar Aji Pijar\n
+dLontar = Mount Batur Museum Assets
+tTrenggiling = Trenggiling\n
+dTrenggiling = Mount Batur Museum Assets
+tBurung = Burung Tekukur\n
+dBurung = Mount Batur Museum Assets
+tMiniatur = Miniatur Candi\n
+dMiniatur = Mount Batur Museum Assets
+tKera = Kera Abu\n
+dKera = Mount Batur Museum Assets
+tBryophyllum = Bryophyllum\n
+dBryophyllum = Mount Batur Museum Assets
+tAnaphalis = Anaphalis\n
+dAnaphalis = Mount Batur Museum Assets
+tAlbizia = Albizia\n
+dAlbizia = Mount Batur Museum Assets
+tVitex = Vitex Trifolia\n
+dVitex = Mount Batur Museum Assets
+tLandak = Landak\n
+dLandak = Mount Batur Museum Assets
+tLuwak = Luwak\n
+dLuwak = Mount Batur Museum Assets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
