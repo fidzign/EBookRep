@@ -5,13 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/EBook.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 0
     path: Assets/Scenes/SelectObject.unity
     guid: 3501ca73fa2c0ae4ba6ed3056eaf35f3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/AddressableObject.unity
     guid: c19a6afb8f6d4b044b789408a11c4f2b
   m_configObjects:
