@@ -29,12 +29,10 @@ public class BookPro : MonoBehaviour
     public bool hasTransparentPages = true;
     [HideInInspector]
     public int currentPaper = 0;
-
-    public int currentpopUPBook = 0;
+    public int curAnimContent = 0;
     [HideInInspector]
     public Paper[] papers;
-
-    public GameObject[] popUPBook;
+    public GameObject[] animContent;
 
     /// <summary>
     /// OnFlip invocation list, called when any page flipped
@@ -249,11 +247,13 @@ public class BookPro : MonoBehaviour
                 LeftPageShadow.transform.SetParent(papers[previousPaper].Back.transform, true);
                 LeftPageShadow.rectTransform.anchoredPosition = new Vector3();
                 LeftPageShadow.rectTransform.localRotation = Quaternion.identity;
+                
             }
             else
             {
                 //if no previous pages, the leftShaow should be disabled
                 LeftPageShadow.gameObject.SetActive(false);
+               
                 LeftPageShadow.transform.SetParent(BookPanel, true);
             }
 
@@ -261,6 +261,7 @@ public class BookPro : MonoBehaviour
             {
                 //has at least one next page, the right shadow should be active
                 RightPageShadow.gameObject.SetActive(true);
+               
                 RightPageShadow.transform.SetParent(papers[currentPaper].Front.transform, true);
                 RightPageShadow.rectTransform.anchoredPosition = new Vector3();
                 RightPageShadow.rectTransform.localRotation = Quaternion.identity;
@@ -268,6 +269,7 @@ public class BookPro : MonoBehaviour
             else
             {
                 //no next page, the right shadow should be diabled
+               
                 RightPageShadow.gameObject.SetActive(false);
                 RightPageShadow.transform.SetParent(BookPanel, true);
             }
@@ -276,6 +278,7 @@ public class BookPro : MonoBehaviour
         {
             //Enable Shadow Effect is Unchecked, all shadow effects should be disabled
             LeftPageShadow.gameObject.SetActive(false);
+           
             LeftPageShadow.transform.SetParent(BookPanel, true);
 
             RightPageShadow.gameObject.SetActive(false);
@@ -360,6 +363,7 @@ public class BookPro : MonoBehaviour
 
         if (enableShadowEffect) ShadowLTR.gameObject.SetActive(true);
         ClippingPlane.gameObject.SetActive(true);
+        
         UpdateBookLTRToPoint(f);
     }
     public void OnMouseRelease()
@@ -415,9 +419,11 @@ public class BookPro : MonoBehaviour
         Left.transform.SetParent(BookPanel.transform, true);
         Left.rectTransform.pivot = new Vector2(0, 0);
         Right.transform.SetParent(BookPanel.transform, true);
+       
         UpdatePages();
         Shadow.gameObject.SetActive(false);
         ShadowLTR.gameObject.SetActive(false);
+       
         ClippingPlane.gameObject.SetActive(false);
         if (OnFlip != null)
             OnFlip.Invoke();
@@ -464,6 +470,7 @@ public class BookPro : MonoBehaviour
                 tweening = false;
                 Shadow.gameObject.SetActive(false);
                 ShadowLTR.gameObject.SetActive(false);
+                
                 UpdatePages();
             });
         }
@@ -478,6 +485,7 @@ public class BookPro : MonoBehaviour
                 tweening = false;
                 Shadow.gameObject.SetActive(false);
                 ShadowLTR.gameObject.SetActive(false);
+             
                 UpdatePages();
             });
         }
@@ -525,6 +533,7 @@ public class BookPro : MonoBehaviour
             ShadowLTR.rectTransform.anchoredPosition = new Vector3();
             ShadowLTR.transform.localEulerAngles = Vector3.zero;
             ShadowLTR.gameObject.SetActive(true);
+            
         }
         Right.transform.SetParent(ClippingPlane.transform, true);
 
@@ -561,6 +570,7 @@ public class BookPro : MonoBehaviour
         if (enableShadowEffect)
         {
             ShadowLTR.transform.SetParent(ClippingPlane.transform, true);
+           
             ShadowLTR.transform.localPosition = new Vector3(0, 0, 0);
             ShadowLTR.transform.localEulerAngles = new Vector3(0, 0, 0);
 
@@ -594,6 +604,7 @@ public class BookPro : MonoBehaviour
         Right.transform.SetAsFirstSibling();
 
         ShadowLTR.rectTransform.SetParent(Left.rectTransform, true);
+        
     }
     private float Calc_T0_T1_Angle(Vector3 c, Vector3 bookCorner, out Vector3 t1)
     {
