@@ -38,6 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
+  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -545,6 +546,7 @@ MonoBehaviour:
   enableShadowEffect: 1
   hasTransparentPages: 1
   currentPaper: 0
+  curAnimContent: 0
   papers:
   - Front: {fileID: 1075693670}
     Back: {fileID: 13512453}
@@ -552,6 +554,7 @@ MonoBehaviour:
     Back: {fileID: 1673052924}
   - Front: {fileID: 1546884126}
     Back: {fileID: 652198949}
+  animContent: []
   OnFlip:
     m_PersistentCalls:
       m_Calls:
