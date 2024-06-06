@@ -4483,7 +4483,7 @@ Light:
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
-  m_Color: {r: 0.5670123, g: 0.6132076, b: 0.03760237, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
@@ -7605,6 +7605,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: -6200498014582788483, guid: 5e1c4c34d4bb3484bbcdd8900b0e7433, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: -8499701361930146817, guid: 5e1c4c34d4bb3484bbcdd8900b0e7433, type: 3}
     - target: {fileID: -5624607204491556219, guid: 5e1c4c34d4bb3484bbcdd8900b0e7433, type: 3}
       propertyPath: m_Layer
       value: 5
@@ -7613,6 +7617,14 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: -3071094844062105501, guid: 5e1c4c34d4bb3484bbcdd8900b0e7433, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: -5761903855786713811, guid: 5e1c4c34d4bb3484bbcdd8900b0e7433, type: 3}
+    - target: {fileID: -2692170022247339489, guid: 5e1c4c34d4bb3484bbcdd8900b0e7433, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: -8499701361930146817, guid: 5e1c4c34d4bb3484bbcdd8900b0e7433, type: 3}
     - target: {fileID: -2318983405936578624, guid: 5e1c4c34d4bb3484bbcdd8900b0e7433, type: 3}
       propertyPath: m_Layer
       value: 5
@@ -7625,10 +7637,18 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 1679754953131053875, guid: 5e1c4c34d4bb3484bbcdd8900b0e7433, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: -5761903855786713811, guid: 5e1c4c34d4bb3484bbcdd8900b0e7433, type: 3}
     - target: {fileID: 4518080271483403827, guid: 5e1c4c34d4bb3484bbcdd8900b0e7433, type: 3}
       propertyPath: m_Layer
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 4645411004304505871, guid: 5e1c4c34d4bb3484bbcdd8900b0e7433, type: 3}
+      propertyPath: m_Materials.Array.data[7]
+      value: 
+      objectReference: {fileID: 2694126538136904386, guid: 5e1c4c34d4bb3484bbcdd8900b0e7433, type: 3}
     - target: {fileID: 5401585531432250787, guid: 5e1c4c34d4bb3484bbcdd8900b0e7433, type: 3}
       propertyPath: m_Layer
       value: 5
